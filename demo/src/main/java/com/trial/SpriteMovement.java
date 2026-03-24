@@ -18,7 +18,7 @@ import javafx.scene.image.Image;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-public class SpriteDisplay extends Application {
+public class SpriteMovement extends Application {
     
     @Override
     public void start(Stage stage) {
