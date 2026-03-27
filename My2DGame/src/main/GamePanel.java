@@ -16,7 +16,7 @@ public class GamePanel extends JPanel implements Runnable{
     final int screenWidth = tileSize+maxScreenCol;
     final int screenHeight = tileSize+maxScreenRow;
 
-    int FPS=60;
+    int FPS=80;
 
     KeyHandler keyH=new KeyHandler();
     Thread gameThread;
